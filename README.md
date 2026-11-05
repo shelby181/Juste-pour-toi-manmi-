@@ -183,7 +183,7 @@ footer {
 }
 
 .opened .envelope {
-    transform: scale(.17);
+    transform: scale(.8);
     opacity: 0;
     pointer-events: none;
     height: 0;
