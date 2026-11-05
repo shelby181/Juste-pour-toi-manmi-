@@ -1,6 +1,6 @@
 # Juste-pour-toi-manmi-
 Surprise
-<!DOCTYPE html>
+<!ma Reine>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -239,10 +239,11 @@ footer {
 
         <div class="signature">
             Avec tendresse, Papi ❤️
+            Nèg dous ou a 😇
         </div>
     </div>
 
-    <footer>10 NOVEMBRE · JUSTE POUR TOI</footer>
+    <footer> 5 NOVEMBRE · JUSTE POUR TOI</footer>
 
 </div>
 
