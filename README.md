@@ -1,4 +1,5 @@
-Pour toi ma Reine
+Pour toi ma Reine 🫂❤
+
 Surprise mon Coeur 😇
 <html lang="fr">
 <head>
@@ -224,8 +225,3 @@ bouton.addEventListener("click", function() {
 
 </body>
 </html>
-
-Enpòtan: Apre ou fin fè Commit changes, teste lyen an ankò. Si ansyen vèsyon an parèt, fè yon rafrechisman paj la.
-
-Mwen ta renmen konnen yon sèl bagay: èske se anvlòp la ki pa ouvri lè ou klike, oswa se mesaj la ki pa parèt? ❤️
-                
