@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+Pour toi ma Reine
+Surprise mon Coeur 😇
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -195,7 +196,7 @@ footer {
     </div>
 
     <footer>
-        10 NOVEMBRE · JUSTE POUR TOI
+        6 NOVEMBRE · JUSTE POUR TOI
     </footer>
 
 </div>
